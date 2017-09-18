@@ -1,0 +1,17 @@
+{
+	"VersionCode":1,
+	"webname":{
+			"403":[],
+			"WhitelistUrl":"",
+			"UA":"",
+			"Referer":"",
+			"InjectJsUrl":""
+	},
+	"Default":{
+			"403":[],
+			"WhitelistUrl":"",
+			"UA":"",
+			"Referer":"",
+			"InjectJsUrl":""
+	}
+}
