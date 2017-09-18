@@ -8,7 +8,7 @@
 			"InjectJsUrl":""
 	},
 	"Default":{
-			"403":[],
+			"403":["js/coco.js","js/app.js","js/tongji.js","adsense.html","cdn.tvmob.cn/piaofu.js","cdn.tvmob.cn/2.js","1/9923.js","frontend/bab.js","videojs-title-bar.min.js"],
 			"WhitelistUrl":"",
 			"UA":"",
 			"Referer":"",
