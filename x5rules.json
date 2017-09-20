@@ -1,7 +1,7 @@
 {
 	"VersionCode":1,
 	"avgle":{
-			"403":["ads.js","bab.js","videojs-related-carousel.js","videojs-logobrand.js",".css"],
+			"403":["ads.js","bab.js","videojs-related-carousel.js","videojs-logobrand.js"],
 			"WhitelistUrl":"",
 			"UA":"",
 			"Referer":"",
