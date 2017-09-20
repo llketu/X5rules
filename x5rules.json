@@ -1,7 +1,7 @@
 {
 	"VersionCode":1,
 	"avgle":{
-			"403":[".js"],
+			"403":["ads.js","bab.js","jstorage.min.js","/templates/frontend/"],
 			"WhitelistUrl":"",
 			"UA":"",
 			"Referer":"",
