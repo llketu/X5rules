@@ -15,7 +15,7 @@
 			"InjectJsUrl":""
 	},
 	"bjzyy":{
-			"403":[],
+			"403":["e.qxfly.com"],
 			"WhitelistUrl":["missfood.net"],
 			"UA":"Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/6.2.4 NetType/WIFI Language/zh_CN",
 			"Referer":"",
