@@ -10,7 +10,7 @@
 	"default":{
 			"403":["js/coco.js","js/app.js","js/tongji.js","adsense.html","cdn.tvmob.cn/piaofu.js","cdn.tvmob.cn/2.js","1/9923.js","frontend/bab.js","videojs-title-bar.min.js"],
 			"WhitelistUrl":["www.gav567.com","api.goudaitv.com","mgtv.com","iqiyi.com","bf.k3k.org.cn","www.yibuyy.com","t.cn/RaZ2YXC","bjzyy.missfood.net","zj.missfood.net","yhq.missfood.net","www.missfood.net","api.qtdao.com"],
-			"UA":"",
+			"UA":"Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/6.2.4 NetType/WIFI Language/zh_CN",
 			"Referer":"",
 			"InjectJsUrl":""
 	}
